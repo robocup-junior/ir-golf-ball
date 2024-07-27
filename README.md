@@ -8,7 +8,7 @@ A golf size ball emiting IR light powered by 18350 Li-Ion battery with 40khz mod
 
 ## How to get it?
 # Buy it and suport us
-You will be able to buy it soon from many places, for now we are taking preorders [here](https://docs.google.com/forms/d/e/1FAIpQLSeDNluafNvnX1WBIk5zJzcXsfOrKENFUOebmqeOT6po7Bbjzg/viewform?usp=sf_link) cost is 15$ per ball build without battery
+You will be able to buy it soon from many places, for now we are taking preorders [here](https://docs.google.com/forms/d/e/1FAIpQLSeDNluafNvnX1WBIk5zJzcXsfOrKENFUOebmqeOT6po7Bbjzg/viewform?usp=sf_link) cost is 20$ per ball build without battery
 
 # Make it your self
 Order flex PCBs forexample from JLCPCB and get it asebled or asseble it your self.
