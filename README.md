@@ -174,7 +174,7 @@ All gerber files are in this repo.
   </tbody>
 </table>
 
-We recomend ordering from LCSC but you can find all the componets on other sites as well (Mouser,Digikey...). For finding best suplier for you, we recomend using https://octopart.com/ and checking out list of eqvivalent componts (TODO list of eqvivalent components)
+We recomend ordering from LCSC but you can find all the componets on other sites as well (Mouser,Digikey...). For finding best suplier for you, we recomend using https://octopart.com/ and checking out list of eqvivalent componts (TODO list of eqvivalent components and selection criterias)
 
 ### 3. Mechanical components
 #### Filament
@@ -198,6 +198,7 @@ Also print counterwight for balance and fill it with solder.
 
 ## Step 3: Asemble PCBs
 While your 3d printer is working you can asemble PCBs. It can be done by hand but stencil is more convinient. We recomend to place coil as last component so you will be able to rework regulator solder joints if neaded after reflow.
+TODO add image of component placement
 
 ## Step 4: Program AtTiny
 This step is not neaded when you did buy a kit from us. 
