@@ -198,7 +198,7 @@ Also print counterwight for balance and fill it with solder.
 
 ## Step 3: Asemble PCBs
 While your 3d printer is working you can asemble PCBs. It can be done by hand but stencil is more convinient. We recomend to place coil as last component so you will be able to rework regulator solder joints if neaded after reflow.
-TODO add image of component placement
+![pcb_values](./img/pcb_values.png?raw=true)
 
 ## Step 4: Program AtTiny
 This step is not neaded when you did buy a kit from us. 
